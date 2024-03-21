@@ -37,7 +37,7 @@ const CARDS = [
     designation: "Railway Officer",
     content: (
       <p>
-       Wow Health <Highlight>revolutionized</Highlight> my health journey. <Highlight>Personalized diet plans</Highlight> and easy tracking tools made all the difference. Thanks to Wow Health, I feel more energized and confident
+       Wow Health transformed my journey. <Highlight> Personalized plans </Highlight> and easy tracking tools made all the difference. Feeling great thanks to Wow Health.
       </p>
     ),
   },

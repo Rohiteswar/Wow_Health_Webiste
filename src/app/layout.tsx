@@ -23,10 +23,13 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={inter.className}>
-        <Navbar />
-        {children}
+        <div>
+          <Navbar />
+        </div>
+        <div>{children}</div>
+        <div>
           <Footer />
-       
+        </div>
       </body>
     </html>
   );
