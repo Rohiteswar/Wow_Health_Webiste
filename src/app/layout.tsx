@@ -22,7 +22,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className={myFont.className}>
+      <body className={inter.className}>
         <Navbar />
         {children}
         <div className="static bottom-0">
