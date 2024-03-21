@@ -16,19 +16,6 @@ export default function Hero() {
               transformational journey to a healthier you.
             </p>
             <div className="flex flex-col gap-2 sm:flex-row sm:gap-4">
-              {/* <Link
-                className="btn btn-primary flex items-center gap-2 px-6 py-3 text-base font-medium rounded-lg sm:text-sm hover:underline"
-                href="/About-us"
-              >
-                About Us
-              </Link>
-
-              <Link
-                className="btn btn-tertiary flex items-center gap-2 px-6 py-3 text-base font-medium rounded-lg sm:text-sm "
-                href="/Contact-us"
-              >
-                Contact Us
-              </Link> */}
               <Link
                 className="shadow-[inset_0_0_0_2px_#616467] px-12 py-4 rounded-full tracking-widest uppercase font-bold bg-transparent hover:bg-[#3BB34A] hover:text-white transition duration-200 text-black"
                 href="/Join"

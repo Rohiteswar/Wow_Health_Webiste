@@ -5,7 +5,6 @@ import { TypeWrite } from "@/Components/Typewrite";
 export default function Home() {
   return (
     <>
-      <div>
         <Hero />
         <div className="mx-auto text-center text-6xl p-6">
           Why <span>WOW</span> <span >Health</span>{" "}
@@ -13,7 +12,6 @@ export default function Home() {
         </div>
         <Journey />
         <TypeWrite />
-      </div>
     </>
   );
 }
